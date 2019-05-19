@@ -30,7 +30,7 @@ display_board(board = ["X", "X", "X", " ", " ", " ", " ", " ", " "])
 
 display_board(board = [" ", " ", " ", " ", " ", " ", "O", "O", "O"]s)
 
-display_board()
+display_board(board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"])
 display_board()
 display_board()
 display_board()
