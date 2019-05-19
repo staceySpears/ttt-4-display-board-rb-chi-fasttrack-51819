@@ -37,8 +37,6 @@ display_board(board = [" ", " ", "O", " ", "O", " ", "O", " ", " "])
 display_board(board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"])
 
 display_board(board = ["X", "O", "X", "O", "X", "X", "O", "X", "O"])
-display_board()
-display_board()
-display_board()
+
 
 
